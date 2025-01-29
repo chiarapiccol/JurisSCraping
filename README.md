@@ -1,5 +1,6 @@
 # Juris Scraping
-This repository contains a project for scraping legal documents from the Juris database. The project was conducted as part of the SS 21 course by Chiara Piccolroaz at the University of Konstanz.
+This repository contains a project for scraping legal documents from the Juris database and analyse their content. The project was conducted as research assistant by professor Prof. Dr. Gerald Schneider (AG Internationale Politik, Universität Konstanz) for the Project „Administrative Inequality: The Case of Foreign Nationals in Germany“.
+
 
 ## Introduction
 This project involves scraping legal documents from the Juris database. The scraping process is automated using Selenium, and the data is processed and saved for further analysis.
